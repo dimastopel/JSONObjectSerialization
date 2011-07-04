@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, JSONObjectSerialization!</string>
     <string name="app_name">JSONObjectSerialization</string>
+    <string name="empty"></string>
 </resources>

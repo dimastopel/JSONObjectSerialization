@@ -1,1 +1,3 @@
 An example for serializing and deserializing objects from / to JSON string on Android OS.
+
+See this blog post for more informaton: http://blogs.msdn.com/b/dimast/archive/2011/07/04/serializing-de-serializing-object-to-from-json-string-on-android-os.aspx
